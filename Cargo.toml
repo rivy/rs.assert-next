@@ -1,12 +1,12 @@
 [package]
-name = "assert-lux"
+name = "assert-next"
 version = "0.0.0"
 authors = ["Roy Ivy III <rivy.dev@gmail.com>"]
 description = "improved assert macros"
 license = "MIT OR Apache-2.0"
 
-categories = ["os"]
-keywords = ["windows", "wildcards", "glob", "shell"]
+categories = ["development-tools::testing"]
+keywords = ["assert", "color", "diff", "style"]
 
 readme = "README.mkd"
 homepage = "https://github.com/rivy/rs.assert-lux"
